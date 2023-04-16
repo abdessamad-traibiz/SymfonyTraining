@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706ce353-d901-4d69-90da-ba035fb88335" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/FirstController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/SessionController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/TodoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/first/hello.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/first/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/session/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/FirstController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/FirstController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/TodoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/TodoController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/todo/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/todo/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,13 +174,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/abdessamad/Bureau/MyLearning/symfonyLearning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Abdes/PhpstormProjects/SymfonyTraining&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -212,11 +205,26 @@
       <workItem from="1681471007601" duration="321000" />
       <workItem from="1681471373853" duration="7110000" />
       <workItem from="1681481925583" duration="4106000" />
+      <workItem from="1681569104758" duration="195000" />
+      <workItem from="1681569322109" duration="1716000" />
+      <workItem from="1681584652806" duration="807000" />
+      <workItem from="1681648507552" duration="1628000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
